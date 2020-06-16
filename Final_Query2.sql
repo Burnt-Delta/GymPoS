@@ -1,3 +1,4 @@
+/* These instances are for demonstration purposes only; any references to real data are purely coincidental. */
 
 INSERT INTO manager VALUES (1,'Eric','Duncan','1968-03-21',29,null,'eduncan@thisgym.com'); 
 INSERT INTO manager VALUES (2,'Terrance','Jacobs','1979-09-15',26,500,'tjacobs@thisgym.com');
